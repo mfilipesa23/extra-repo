@@ -19,6 +19,6 @@ We have a quote in the next paragraph.
 
 > You shall not pass!!!
 
-Finally, there is a text with a reference to a footnote [1].
+Finally, there is a text with a reference to a footnote[^1]. Some text goes after.
 
-[1]: "Concerning Hobbits"
+[^1]: "Concerning Hobbits"
